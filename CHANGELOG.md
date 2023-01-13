@@ -15,6 +15,13 @@
 * chore: update cd action by @mpetrunic in https://github.com/ChainSafe/js-libp2p-gossipsub/pull/245
 
 
+## [6.1.0](https://github.com/ChainSafe/js-libp2p-gossipsub/compare/v6.0.0...v6.1.0) (2023-01-13)
+
+
+### Features
+
+* added allowPublishToZeroPeers as optional param to publish function ([#395](https://github.com/ChainSafe/js-libp2p-gossipsub/issues/395)) ([e7c88ac](https://github.com/ChainSafe/js-libp2p-gossipsub/commit/e7c88acb83d6b7f25f38074f37668e17860dd518))
+
 ## [6.0.0](https://github.com/ChainSafe/js-libp2p-gossipsub/compare/v5.4.1...v6.0.0) (2023-01-09)
 
 
